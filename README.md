@@ -20,7 +20,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-Website was requested to be optimized for search engines via increasing accessibility. I changed all sections labeled “div” to a more semantic denotation, ie div to article. I added alt text to all images. Changed the CSS to go from largest to smallest. I made sure the headers used went in declining order.
+Website was requested to be optimized for search engines via increasing accessibility. I changed all sections labeled “div” to a more semantic denotation, ie div to article. I added alt text to all images. I changed the CSS to go from largest to smallest. I made sure the headers used went in declining order.
 
 Final product found here https://maddiegillis.github.io/Challenge-1/ 
 
